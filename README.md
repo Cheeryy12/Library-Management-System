@@ -1,2 +1,2 @@
-# cheery-project
-This is my first repository 
+# Library-Management-System
+Library Management System using C++
